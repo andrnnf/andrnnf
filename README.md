@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-facebook-4267b2?style=for-the-badge&logo=facebook&logoColor=ffffff"/>
 </a>
 <a href="//facebook.com/andrnnf.andrnnf" rel="noreferrer" target="_blank">
-<img src="https://img.shields.io/badge/-instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=ffffff&label=@andrnnf"/>
 </a>
 
 </div>
