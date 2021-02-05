@@ -3,7 +3,8 @@
 * 💻 Front end developer
 * 🌱 I'm currently learning to be a Full Stack Developer
 ### 📫 How to reach me :
-* Instagram : [Link to Instagram!](https://instagram.com/andrnnf)
+* Instagram : [Visit my instagram profile](https://instagram.com/andrnnf)
+* Facebook : [Visit my Facebook profile](https://www.facebook.com/andrnnf.andrnnf)
 <!--
 **andrnnf/andrnnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
