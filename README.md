@@ -1,6 +1,8 @@
 ##  👋 Hi there! Im **Andrian Fadhilla**
 ### 📖 About me
-* 💻 Front end developer (currently learning to be a full stack developer)
+* 💻 Front end developer
+* 🌱 I'm currently learning to be a Full Stack Developer
+### 📫 How to reach me :
 
 <!--
 **andrnnf/andrnnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
