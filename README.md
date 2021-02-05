@@ -27,6 +27,8 @@
 ![tailwindcss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&color=blueviolet&logoColor=fff)
 
-<h3>How to reach me:</h3>
+<h3>Follow me on:</h3>
+
+![](https://img.shields.io/badge/-facebook-%231a202c?style=for-the-badge&logo=facebook
 
 </div>
