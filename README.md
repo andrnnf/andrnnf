@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<h2>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="24px"/> Im Andrian Fadhilla</h2>
+<h2>Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="24px"/> im Andrian Fadhilla</h2>
 <p style="font-family: 'Lucida Console';">Im Front End Developer from Indonesia🇮🇩 and now I'm learning to become a full stack developer. I'm still a student and preparing for college, so please pray for me so i can go to college this year</p> 
 
 <h3>My Tech Stack</h3>
