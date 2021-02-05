@@ -32,7 +32,7 @@
 <a href="//facebook.com/andrnnf.andrnnf" rel="noreferrer" target="_blank">
 <img src="https://img.shields.io/badge/-Andriann-4267b2?style=for-the-badge&logo=facebook&logoColor=ffffff"/>
 </a>
-<a href="//facebook.com/andrnnf.andrnnf" rel="noreferrer" target="_blank">
+<a href="//instagram.com/andrnnf" rel="noreferrer" target="_blank">
 <img src="https://img.shields.io/badge/-@andrnnf-deeppink?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
 </a>
 
