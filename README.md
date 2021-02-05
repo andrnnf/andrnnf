@@ -1,4 +1,4 @@
-<center><img height="200px" src="https://github.com/demartini/demartini/blob/master/code.gif" style="width=60%!important;display:block;margin:0 auto;"/></center>
+<div align="center"><img width="60%" src="https://github.com/demartini/demartini/blob/master/code.gif"/></div>
 
 ##  👋 Hi there! Im **Andrian Fadhilla**
 ![](https://komarev.com/ghpvc/?username=andrianf&color=brightgreen&label=Visitor&style=flat-square)
