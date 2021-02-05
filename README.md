@@ -1,4 +1,4 @@
-###  👋 Hi there! Im Andrian Fadhilla
+#  👋 Hi there! Im **Andrian Fadhilla**
 ## 📖 About me
 
 <!--
