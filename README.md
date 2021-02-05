@@ -1,13 +1,13 @@
 ##  👋 Hi there! Im **Andrian Fadhilla**
-### ![](https://komarev.com/ghpvc/?username=andrianf&color=green&label=Visitor)
+### ![](https://komarev.com/ghpvc/?username=andrianf&color=brightgreen&label=Visitor&style=flat-square)
 ### 📖 About me
 * 💻 Front end developer
 * 🌱 I'm currently learning to be a Full Stack Developer
-### 
+### My Tech Stack
 ### 📫 How to reach me :
 * Instagram : [Visit my instagram profile](https://instagram.com/andrnnf)
 * Facebook : [Visit my Facebook profile](https://www.facebook.com/andrnnf.andrnnf)
-* Email : [Email me at andrianfadhilla@gmail.com](mailto:andrianfadhilla@gmail.com)
+* Email : [andrianfadhilla@gmail.com](mailto:andrianfadhilla@gmail.com)
 
 <!-- img src="https://profile-counter.glitch.me/andrianf/count.svg" style="width:100%"/ -->
 <!--
