@@ -20,12 +20,12 @@
 ![](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Express.js](https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express)<br/>
-![PHP](https://img.shields.io/badge/-php-blueviolet?style=flat-square&logo=php&color=8993be&logoColor=232531)<br/>
-![SASS](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![tailwindcss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-blueviolet?style=flat-square&logo=bootstrap&color=blueviolet&logoColor=fff)
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+![Express.js](https://img.shields.io/badge/-Express-%23282C34?style=for-the-badge&logo=express)<br/>
+![PHP](https://img.shields.io/badge/-php-blueviolet?style=for-the-badge&logo=php&color=8993be&logoColor=232531)<br/>
+![SASS](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+![tailwindcss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&color=blueviolet&logoColor=fff)
 
 
 </div>
