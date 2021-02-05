@@ -13,6 +13,10 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Express.js](https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express)
 
+![SASS](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![tailwindcss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-blueviolet?style=flat-square&logo=bootstrap&color=blueviolet&logoColor=fff)
+
 ### 📫 How to reach me :
 * Instagram : [Visit my instagram profile](https://instagram.com/andrnnf)
 * Facebook : [Visit my Facebook profile](https://www.facebook.com/andrnnf.andrnnf)
