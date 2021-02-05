@@ -1,5 +1,5 @@
 ##  👋 Hi there! Im **Andrian Fadhilla**
-### ![](https://komarev.com/ghpvc/?username=andrianf)
+### ![](https://komarev.com/ghpvc/?username=andrianf&color=#000&label=Visitor)
 ### 📖 About me
 * 💻 Front end developer
 * 🌱 I'm currently learning to be a Full Stack Developer
