@@ -1,12 +1,14 @@
 ##  👋 Hi there! Im **Andrian Fadhilla**
+### ![](https://komarev.com/ghpvc/?username=andrianf)
 ### 📖 About me
 * 💻 Front end developer
 * 🌱 I'm currently learning to be a Full Stack Developer
+### 
 ### 📫 How to reach me :
 * Instagram : [Visit my instagram profile](https://instagram.com/andrnnf)
 * Facebook : [Visit my Facebook profile](https://www.facebook.com/andrnnf.andrnnf)
 
-<img src="https://profile-counter.glitch.me/andrianf/count.svg" style="width:100%"/>
+<-- img src="https://profile-counter.glitch.me/andrianf/count.svg" style="width:100%"/ -->
 <!--
 **andrnnf/andrnnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
