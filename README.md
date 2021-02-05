@@ -29,6 +29,6 @@
 
 <h3>Follow me on:</h3>
 
-[](https://img.shields.io/badge/-facebook-4267b2?style=for-the-badge&logo=facebook&logoColor=ffffff)
+[https://img.shields.io/badge/-facebook-4267b2?style=for-the-badge&logo=facebook&logoColor=ffffff](https://img.shields.io/badge/-facebook-4267b2?style=for-the-badge&logo=facebook&logoColor=ffffff)
 
 </div>
